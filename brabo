@@ -1,0 +1,2 @@
+num = int(input("digite um numero: "))
+print(f"seu numero é {num}")
